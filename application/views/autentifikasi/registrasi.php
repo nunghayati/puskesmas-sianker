@@ -38,7 +38,7 @@
                                         <div class="text-center">
                                             <a class="small text-dark" href="<?= base_url('autentifikasi/lupaPassword'); ?>"></a></div>
                                         <div class="text-center">
-                                            Sudah Menjadi Admin? <a class="small text-dark" href="<?= base_url('autentifikasi'); ?>">  LOGIN!</a>
+                                           Apakah Sudah Menjadi Admin? <a class="small text-dark" href="<?= base_url('autentifikasi'); ?>">  LOGIN!</a>
                                         </div>
                                     </div>
                                 </div>
