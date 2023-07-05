@@ -23,7 +23,7 @@ class Poli extends CI_Controller
 
         //konfigurasi sebelum gambar diupload
         $config['upload_path']      = './assets/img/upload/';
-        $config['allowed_types']    = 'jpg|png|jpeg';
+        $config['allowed_types']    = 'jpg|png|jpeg|doc|pptx';
         $config['max_size']         = '3000';
         $config['max_width']        = '1024';
         $config['max_height']       = '1000';
