@@ -41,7 +41,7 @@
          </table>
       </div>
       <div class="col-sm-12 col-md-11 text-center">
-         <a href="#" onclick="window.history.go(-1)" class="btn btn-outline-dark"><i class="fas fa-fw fa-reply"></i> Kembali</a>
+         <a href="#" onclick="window.history.go(-1)" class="btn btn-outline-light"><i class="fas fa-fw fa-reply"></i> Kembali</a>
       </div>
    </div>
 </div>

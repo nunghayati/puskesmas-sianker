@@ -17,7 +17,7 @@
                     <input type="text" class="form-control form-control-user" value="<?= set_value('email'); ?>" id="email" placeholder="Masukkan Alamat Email" name="email">
                     <?= form_error(
                         'email',
-                        '<small class="text-danger pl-3">',
+                        '<small class="text-info pl-3">',
                         '</small>'
                     ); ?>
                 </div>

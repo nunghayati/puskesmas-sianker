@@ -4,7 +4,7 @@
         <div class="col-md-6 text-center mb-5">
             <!-- menambahkan logo -->
             <center>
-                <img src="<?php echo base_url('assets/img/Logo.png'); ?>" width="300">
+                <img src="<?php echo base_url('assets/img/Logo.png'); ?>" width="200">
             </center>
             <br>
             <div class="text-center">
